@@ -1,6 +1,7 @@
-## sweva-visualization-bar-chart
+## sweva-visualization-pie-chart
 
-Bar Chart visualization module for SWeVA.
+
+Pie Chart visualization module for SWeVA.
 
 
 ## Dependencies
