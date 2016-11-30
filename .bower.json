@@ -1,0 +1,42 @@
+{
+  "name": "sweva-visualization-pie-chart",
+  "version": "1.0.7",
+  "authors": [
+
+  ],
+  "description": "Pie Chart visualization module for SWeVA.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "sweva-visualization-line-graph.html",
+  "license": "https://raw.githubusercontent.com/rwth-acis/sweva-visualization-bar-chart/master/LICENSE",
+  "homepage": "https://github.com/rwth-acis/sweva-visualization-pie-chart/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0",
+    "d3": "^3.5.12",
+    "d3-tip": "*",
+    "download-as-file": "https://github.com/bahmutov/download-as-file.git"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "^4.0.0"
+  },
+  "resolutions": {
+    "d3": "^3.5.12"
+  },
+  "_release": "1.0.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.7",
+    "commit": ""
+  },
+  "_source": "git://github.com/rwth-acis/sweva-visualization-pie-chart.git",
+  "_target": "^1.0.7",
+  "_originalSource": "rwth-acis/sweva-visualization-pie-chart"
+}
